@@ -1,7 +1,7 @@
 from Maze import Maze
 
 def main():
-    maze = Maze(6,5)
+    maze = Maze(20,20)
     maze.draw()
 
 if __name__ == "__main__":
